@@ -1,0 +1,12 @@
+/Users/salom11/Desktop/Assignment 6/CSModule6/CSModule6/bin/Debug/netcoreapp3.1/CSModule6.deps.json
+/Users/salom11/Desktop/Assignment 6/CSModule6/CSModule6/bin/Debug/netcoreapp3.1/CSModule6.runtimeconfig.json
+/Users/salom11/Desktop/Assignment 6/CSModule6/CSModule6/bin/Debug/netcoreapp3.1/CSModule6.runtimeconfig.dev.json
+/Users/salom11/Desktop/Assignment 6/CSModule6/CSModule6/bin/Debug/netcoreapp3.1/CSModule6.dll
+/Users/salom11/Desktop/Assignment 6/CSModule6/CSModule6/bin/Debug/netcoreapp3.1/CSModule6.pdb
+/Users/salom11/Desktop/Assignment 6/CSModule6/CSModule6/obj/Debug/netcoreapp3.1/CSModule6.csprojAssemblyReference.cache
+/Users/salom11/Desktop/Assignment 6/CSModule6/CSModule6/obj/Debug/netcoreapp3.1/CSModule6.AssemblyInfoInputs.cache
+/Users/salom11/Desktop/Assignment 6/CSModule6/CSModule6/obj/Debug/netcoreapp3.1/CSModule6.AssemblyInfo.cs
+/Users/salom11/Desktop/Assignment 6/CSModule6/CSModule6/obj/Debug/netcoreapp3.1/CSModule6.csproj.CoreCompileInputs.cache
+/Users/salom11/Desktop/Assignment 6/CSModule6/CSModule6/obj/Debug/netcoreapp3.1/CSModule6.dll
+/Users/salom11/Desktop/Assignment 6/CSModule6/CSModule6/obj/Debug/netcoreapp3.1/CSModule6.pdb
+/Users/salom11/Desktop/Assignment 6/CSModule6/CSModule6/obj/Debug/netcoreapp3.1/CSModule6.genruntimeconfig.cache
